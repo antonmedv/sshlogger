@@ -1,0 +1,3 @@
+SSH Logger
+
+Prints the commands executed by the user on the shell, and executes them.
